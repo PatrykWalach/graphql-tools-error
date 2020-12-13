@@ -1,0 +1,26 @@
+{
+  "name": "graphql-tools-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrykWalach/graphql-tools-error.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrykWalach/graphql-tools-error/issues"
+  },
+  "homepage": "https://github.com/PatrykWalach/graphql-tools-error#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0",
+    "graphql-tools": "^7.0.2"
+  }
+}
